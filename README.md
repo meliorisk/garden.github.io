@@ -1,8 +1,10 @@
 # garden.github.io
 ## Jardin
 
-**Fotografia** 
+**Fotografia**/ 
 
-*Kwitnące drzewa*
-*Kwiaty wiosną* 
-*Zieleń
+*Kwitnące drzewa*/
+
+*Kwiaty wiosną*/
+
+*Zieleń*/
